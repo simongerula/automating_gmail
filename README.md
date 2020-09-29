@@ -1,6 +1,16 @@
-# automating_gmail
+# Automating Gmail
 
-In case of security error when sending the message follow the steps:
+Script created to send emails automatically.
+
+## Technologies
+
+python with libraries: smtplib, getpass, time
+
+## How to use 
+
+The body of the message can be multiline and must be written in the file body_mail.txt
+
+## In case of security error when sending the message follow the steps:
 
 Turn On Allow Less Secure Apps Access Google Account Steps.
 
